@@ -6,15 +6,17 @@ This GitHub is a growing portfolio of focused, problem-solving projects — each
 
 ---
 
-## Projects
+## 🛠️ Projects
 
 | Project | Description |
 |--------|-------------|
 | [PDF Organizer](https://github.com/Zane-T88/pdf-organizer) | Sorts PDFs into folders by date or keyword. Great for cleaning up messy document collections. |
 | [CSV Plot Tool](https://github.com/Zane-T88/csv-plot-tool) | Reads a CSV, detects column types, and generates a clean graph. Supports line, bar, and horizontal bar plots. |
 | [Web Scraper](https://github.com/Zane-T88/web-scraper) | Extracts content from any public website using tag/class input and saves it to CSV. |
+| [Unit Converter API](https://github.com/Zane-T88/unit-converter-api) | Lightweight Flask API that converts between distance and temperature units. |
+| [Text Analyzer](https://github.com/Zane-T88/text-analyzer) | Command-line tool that combines sentiment analysis, keyword extraction, and toxicity detection into one smart NLP utility. |
 
-More projects coming soon.
+More coming soon.
 
 ---
 
