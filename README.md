@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**Zane-T88/Zane-T88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a coder with a physics background, focused on building useful, real-world tools. My work blends automation, data handling, and simple UI/UX in Python.
 
-Here are some ideas to get you started:
+This GitHub is a growing portfolio of focused, problem-solving projects — each built from scratch, explained, and polished for actual use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## Projects
+
+| Project | Description |
+|--------|-------------|
+| [PDF Organizer](https://github.com/Zane-T88/pdf-organizer) | Sorts PDFs into folders by date or keyword. Great for cleaning up messy document collections. |
+| [CSV Plot Tool](https://github.com/Zane-T88/csv-plot-tool) | Reads a CSV, detects column types, and generates a clean graph. Supports line, bar, and horizontal bar plots. |
+| [Web Scraper](https://github.com/Zane-T88/web-scraper) | Extracts content from any public website using tag/class input and saves it to CSV. |
+
+More projects coming soon.
+
+---
+
+## Goals
+
+- Build a toolkit of automation and analysis tools
+- Use coding for clean, practical problem solving
+- Move toward freelance and independent work
+
+---
+
+<!-- Optional:
+## 📫 Contact
+You can reach me via GitHub messages
 -->
